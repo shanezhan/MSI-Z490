@@ -1,5 +1,6 @@
 # MSI-Z490
 Hackintosh-OpenCore-MSI-MPG-Z490-Gaming-Plus-10600kf-5500xt
+
 ——————————————————
 
 OpenCore 0.6.4
@@ -7,6 +8,7 @@ OpenCore 0.6.4
 bigsur 11.1
 
 ——————————————————
+
 Main:MSI MPG Z490 Gaming Plus
 
 CPU: Intel Core i5-10600kf
